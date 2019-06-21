@@ -14,3 +14,6 @@ Switched laptops while work on the same file.
 Bob & Alice:
 didn't create a new branch when starting to work again on a new feature
 
+
+We determained that we cannot all push to mastser from working remote!!!
+
