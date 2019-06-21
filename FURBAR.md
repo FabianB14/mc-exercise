@@ -21,3 +21,8 @@ Ted and Alice working on the second feature and trying not to mess things up.
 
 Continue working on the feature.
 
+Putting some stuff here to check merge conflicts
+This is going to be awesome.
+YES
+YES
+YES
