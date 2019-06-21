@@ -5,3 +5,7 @@
 This is a function that Fabian has comleted in place of Carol.
 Do you think there is anything else you wanns do?
 Commenting as Bob. Should we push this back to git now?
+
+This is the second time trying the merge coflicts Bob
+Ok!!!!!
+This is Carol trying now also
